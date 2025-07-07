@@ -1,1 +1,1 @@
-# patient-funnel-project
+In this project, I hope to show data visualizations and an understanding of patient/user journeys.
